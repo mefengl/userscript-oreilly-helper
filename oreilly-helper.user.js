@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        O'Reilly Helper
 // @namespace   https://github.com/mefengl
-// @version     0.1.0
+// @version     0.1.1
 // @description 🎴 Enhance your O'Reilly learning experience: smoothly hide header and footer on scroll down, and show them (with cute transparency!) on scroll up.
 // @author      mefengl
 // @match       https://learning.oreilly.com/library/view/*
